@@ -1,0 +1,4 @@
+_id,name,lastName,email,status,userCreate,userUpdate,dateTimeCreate,dateTimeUpdate,_class
+673a7f4ac1dd8955244151f6,Pedro,Perez,pedro.Perez@gmail.com,true,admin,admin,Sun Nov 17 18:42:02 COT 2024,2023-10-12T08:30:00,com.actividad1.entity.ParticipantesEntity
+673a85fc4508762e53ab5d65,andres,Perez sanchez,andres.Perez@gmail.com,true,manuela,manuela,2023-10-12T08:30:00,Sun Nov 17 19:10:36 COT 2024,com.actividad1.entity.ParticipantesEntity
+673a8910da6f1d08dde02f99,camilo,gonzales sanchez,camilo.gonzales@gmail.com,true,,manuela,,Sun Nov 17 19:38:47 COT 2024,com.actividad1.entity.ParticipantesEntity
